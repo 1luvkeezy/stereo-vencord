@@ -55,3 +55,15 @@ pnpm inject
 6. Enable the plugin in the User Settings > Vencord > Plugins
 
 Voilà! Your microphone should now transmit stereo audio!
+
+## 🤕 Troubleshooting
+
+### 🎧 Audio Settings
+
+Make sure your settings are exactly matching the screenshot down below :
+
+![image](https://github.com/user-attachments/assets/0990549c-e09d-4fb1-9afb-69147eccdef6)
+
+![image](https://github.com/user-attachments/assets/bd2ab3ba-9217-408a-97cf-2768d0d6c200)
+
+
