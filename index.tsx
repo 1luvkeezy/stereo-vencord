@@ -2,7 +2,7 @@ const definePlugin = (options) => options;
 
 /*
 * Vencord, a Discord client mod
-* Copyright (c) 2025 Keezy (@luvukeezy)*
+* Copyright (c) 2025 luvkeezy (@bc4q)*
 * SPDX-License-Identifier: GPL-3.0-or-later
 */
 
